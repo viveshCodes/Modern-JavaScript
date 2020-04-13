@@ -1,0 +1,22 @@
+The different data types available in JS are :
+______________________________________________
+1) Number
+77 , 7.88 
+ 
+2) String
+"Mahendra Singh Dhoni"
+
+3) Boolean 
+true/false
+
+4)Null
+Explicitly set a variable with no value
+
+5)Undefined
+For variables that have not been defined
+
+6) Object 
+Complex data structures - Array , Dates , Literals , etc
+
+7) Symbol 
+Used with objects

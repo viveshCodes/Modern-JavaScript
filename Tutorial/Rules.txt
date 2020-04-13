@@ -1,0 +1,4 @@
+Rule 1:
+Comments in JavaScript ,
+                     (1) Single Line Comments //
+                     (2) Multi Line Comments  /* */
