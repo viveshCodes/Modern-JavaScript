@@ -11,6 +11,7 @@ true/false
 
 4)Null
 Explicitly set a variable with no value
+Note : In Golang , we have nill
 
 5)Undefined
 For variables that have not been defined
