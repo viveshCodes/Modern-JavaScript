@@ -37,3 +37,23 @@ Mobile of userOne :9865351256 and Username of userTwo :9865351256
 */
 
 
+/*
+ Primitive Types:
+ ________________
+ -Numbers
+ -Strings
+ -Booleans
+ -null
+ -undefined
+ -symbols 
+*/
+/*
+Reference Types:
+________________
+-all types of objects
+    -object literals
+    -arrays
+    -functions
+    -dates
+    -all other objects
+*/
