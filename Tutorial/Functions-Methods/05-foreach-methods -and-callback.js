@@ -9,3 +9,12 @@ const myFunc = (receiveFunction) =>{
 myFunc(function(value){
     console.log("The value is ", value)
 });
+/*
+myFunc( value => {
+    console.log("The value is ", value)
+} )*/
+
+let player = ["Mahi Bhai" , "MS Dhoni" , "Thala"]
+player.forEach((player , index) =>{
+    console.log(index ,player)
+});
