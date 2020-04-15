@@ -8,3 +8,6 @@ Unlike Golang and C , we don't specify return parameter in JS.
 Rule 3 : Hoisting
 JS Function declaration is hoisted at the top of a file before the rest of JS runs.
 But , Function expression is not hoisted.
+
+Rule 4 :
+Object is Referece Type in JS . They're stored on heap .
