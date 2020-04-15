@@ -2,3 +2,9 @@ Rule 1:
 Comments in JavaScript ,
                      (1) Single Line Comments //
                      (2) Multi Line Comments  /* */
+Rule 2 :
+Unlike Golang and C , we don't specify return parameter in JS. 
+
+Rule 3 : Hoisting
+JS Function declaration is hoisted at the top of a file before the rest of JS runs.
+But , Function expression is not hoisted.
