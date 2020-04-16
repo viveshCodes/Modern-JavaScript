@@ -1,0 +1,15 @@
+-DOM is an acronym for "Document Object Model."
+-DOM is created by the BROWSER.
+-Once  HTML document is loaded , browser creates an object of the html document known as 'document' object.
+-DOM hierarchy :
+       html (root node)
+         /\
+        /  \       
+       /    \  
+     head    body
+     /        / \
+    /        /   \
+ title      h1    div
+                    /\
+                   /  \
+                   p   p
