@@ -1,15 +1,12 @@
 const submitButton = document.querySelector('button');
-const ulTag = document.querySelector('ul');
 submitButton.addEventListener('click' , () =>{
-    const li = document.createElement('li');
-    li.textContent = 'Cheer for Mahi Bhai';
-    ulTag.append(li);
-    ulTag.prepend(li);
+    console.log('You clicked submit button');
 });
 const items = document.querySelectorAll('li');
 items.forEach( ( item ) => {
     item.addEventListener('click' , (event) => {
+        console.log("You clicked an item.")
+        console.log(event.target); 
         event.target.style.textDecoration = 'line-through';
-        event.target.remove();
     });
 });
