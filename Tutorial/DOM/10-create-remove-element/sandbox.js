@@ -13,3 +13,6 @@ items.forEach( ( item ) => {
         event.target.remove();
     });
 });
+ulTag.addEventListener('click' , (event) =>{
+    console.log('event in Ul');
+});
