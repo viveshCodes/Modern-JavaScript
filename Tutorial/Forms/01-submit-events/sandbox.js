@@ -1,4 +1,4 @@
-const signUp = document.querySelector('.sign-up');
+const signUp = document.querySelector('.signup-form');
 const username = document.querySelector('#username');
 
 signUp.addEventListener('submit' , (event) =>{
